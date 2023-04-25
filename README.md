@@ -8,7 +8,7 @@
 
 ## `nihmrnd@pc~$ whoami`
 
-My name is Nicole and I'm currently studying Data Science @ UFMS. 
+My name is Nicole and I'm currently studying Data Science @ ufms. 
 
 Junior System Analyst  @ cassems. 
 
