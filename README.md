@@ -19,7 +19,7 @@ Junior System Analyst  @ cassems.
 
 ---
 
-Wanna talk? Send me an <a href="mailto:nicole.fernandamiranda@gmail.com">e-mail</a> [e-mail](nicole.fernandamiranda@gmail.com) 📧
+Wanna talk? Send me an [e-mail](nicole.fernandamiranda@gmail.com) 📧
 
 
 <p align="center">
