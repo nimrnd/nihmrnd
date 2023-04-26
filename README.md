@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=avif&w=256" width="30" height="30">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png?f=avif&w=256" width="30" height="30">
-  
 </p>
 
 ## `nihmrnd@pc~$ whoami`
