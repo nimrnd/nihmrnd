@@ -19,7 +19,8 @@ Junior System Analyst  @ cassems.
 
 ---
 
-Wanna talk? Send me an [e-mail](nicole.fernandamiranda@gmail.com) 📧
+Ask me about anything and everything, get in touch!
+How to reach me: nicole.fernandamiranda@gmail.com
 
 
 <p align="center">
